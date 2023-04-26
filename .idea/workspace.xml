@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/ClasseA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packageb/ClasseB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/TestEmployer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/TestEmployer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/debutPratique/entity/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/debutPratique/entity/Employe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/ClasseA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/ClasseA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682499359187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajout package">
+      <created>1682500902162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682500902162</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex add" />
     <MESSAGE value="ajout methode comparaison" />
     <MESSAGE value="ajout methode comparaison modif" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout methode comparaison modif" />
+    <MESSAGE value="ajout package" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout package" />
   </component>
 </project>
