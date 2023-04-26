@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercice/ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercice/ex06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercice/ex4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/TestEmployer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/TestEmployer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/debutPratique/entity/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/debutPratique/entity/Employe.java" afterDir="false" />
     </list>
@@ -65,6 +61,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682430548748</updated>
     </task>
+    <task id="LOCAL-00001" summary="ex add">
+      <created>1682494088473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682494088473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ex add" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex add" />
   </component>
 </project>

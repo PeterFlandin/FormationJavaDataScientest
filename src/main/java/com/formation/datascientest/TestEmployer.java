@@ -10,6 +10,12 @@ public class TestEmployer
 
         Employe thibaule = new Employe("thibaule", "chef", 1000 );
 
+
+        Employe e = new Employe("jean", "dingo",2000);
+        Employe b = new Employe("bebe", "django",3000);
+
+        System.out.println(e.compareE(b));
+
         thibaule.toString();
 
         thibaule.setSalaire(50000);
