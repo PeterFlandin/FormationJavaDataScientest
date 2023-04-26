@@ -16,7 +16,9 @@ public class TestEmployer
 
         System.out.println(e.compareE(b));
 
-        thibaule.toString();
+
+        System.out.println(thibaule.toString());
+
 
         thibaule.setSalaire(50000);
         thibaule.setNom("Jean");

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/TestEmployer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/formation/datascientest/TestEmployer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/ClasseA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/ClasseA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682500902162</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ajout enum">
+      <created>1682503646683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682503646683</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +105,7 @@
     <MESSAGE value="ajout methode comparaison" />
     <MESSAGE value="ajout methode comparaison modif" />
     <MESSAGE value="ajout package" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout package" />
+    <MESSAGE value="ajout enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout enum" />
   </component>
 </project>
