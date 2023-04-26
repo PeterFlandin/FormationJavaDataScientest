@@ -20,7 +20,6 @@ public class Employe {
         this.grade = grade;
         this.salaire = salaire;
     }
-
     public static int getNbEmployer() {
         return nbEmployer;
     }
@@ -28,7 +27,6 @@ public class Employe {
     public static void setNbEmployer(int nbEmployer) {
         Employe.nbEmployer = nbEmployer;
     }
-
     public String getNom() {
         return nom;
     }
@@ -52,22 +50,30 @@ public class Employe {
     public void setSalaire(float salaire) {
         this.salaire = salaire;
     }
-
     @Override
     public String toString() {
-        return ("Nom :" + getNom() + "Grade : " + getGrade() + "Salaire :" + getSalaire());
+        return ("Nom :"+getNom()+ "Grade : " + getGrade() +"Salaire :"+ getSalaire());
     }
 
-    // public boolean equals(Employe employe) {
-    //  return super.equals(employe);
-    //  }
+   // public boolean equals(Employe employe) {
+     //  return super.equals(employe);
+  //  }
 
-    public static boolean compareE(Employe e, Employe b) {
-        return (e.toString().equals(b.toString()));
+   public static boolean compareE ( Employe e , Employe b ){
+        if (e.toString().equals(b.toString())){
+            return false;
+       } else {
+            return true;
+       }
+   }
+
+    public boolean compareE ( Employe e){
+        if (e.toString().equals(e.toString())){
+            return true;
+        } else {
+           return false ;}
     }
-
-    public boolean compareE(Employe e) {
-        return (e.toString().equals(e.toString()));
-    }
-
 }
+
+
+

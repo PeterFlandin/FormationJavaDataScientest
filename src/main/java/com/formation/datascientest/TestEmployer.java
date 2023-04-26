@@ -14,7 +14,7 @@ public class TestEmployer
         Employe e = new Employe("jean", "dingo",2000);
         Employe b = new Employe("bebe", "django",3000);
 
-        System.out.println(e.compareE(b));
+        System.out.println(e.compareE(e));
 
         thibaule.toString();
 
