@@ -35,7 +35,6 @@ public class ClasseA {
         public void setNnbJours(int nnbJours) {
             this.nnbJours = nnbJours;
         }
-        @Override
         public String toString() {
             return "FRENCH NAME" + mois + nnbJours;
         }
