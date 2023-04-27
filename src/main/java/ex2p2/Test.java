@@ -23,7 +23,6 @@ int cercle = 0;
                 tab2[cercle] = (Cercle) ge[i];
                 System.out.println(tab2[cercle]);
                 cercle++;
-
             }
         }
     }

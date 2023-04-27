@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex3p2/Cercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex3p2/Mesurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex3p2/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex3p2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex4p2/Chaine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex4p2/ChaineCryptable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex4p2/Cryptable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ex2p2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex2p2/Test.java" afterDir="false" />
     </list>
@@ -17,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -125,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682592343861</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="instant of">
+      <created>1682598759212</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682598759212</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +153,7 @@
     <MESSAGE value="enum tableaux class" />
     <MESSAGE value="equal polymorphisme" />
     <MESSAGE value="ajout methode abstract" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout methode abstract" />
+    <MESSAGE value="instant of" />
+    <option name="LAST_COMMIT_MESSAGE" value="instant of" />
   </component>
 </project>
