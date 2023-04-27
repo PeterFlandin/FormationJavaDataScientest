@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex1p2/Produit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitAlimentaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitElectromenager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex1p2/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex1p2/TypeEnergetique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/ClasseA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/ClasseA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/formation/packagea/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/Produit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/Produit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitAlimentaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitAlimentaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitElectromenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitElectromenager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,8 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682506107723</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="enum tableaux class">
+      <created>1682516118688</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682516118688</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +125,7 @@
     <MESSAGE value="ajout package" />
     <MESSAGE value="ajout enum" />
     <MESSAGE value="ajout enum version opti" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout enum version opti" />
+    <MESSAGE value="enum tableaux class" />
+    <option name="LAST_COMMIT_MESSAGE" value="enum tableaux class" />
   </component>
 </project>

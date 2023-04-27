@@ -1,6 +1,6 @@
 package ex1p2;
 
-public class Produit {
+public abstract class Produit {
 
     private int code;
     private String libelle;
@@ -41,8 +41,16 @@ public class Produit {
         this.prixHT = prixHT;
     }
 
+
     @Override
     public String toString() {
-        return "Code :" +code+ "Libelle :" + libelle+ "PrixHT :" + prixHT;
+        return "Code :" + code + "Libelle :" + libelle + "PrixHT :" + prixHT;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return this.getCode() == ((Produit) obj).getCode();
     }
 }
+
+

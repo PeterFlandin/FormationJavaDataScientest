@@ -47,4 +47,5 @@ public class ProduitAlimentaire  extends  Produit{
         return super.toString()  + " Dete limite de conso "+ dateLimiteConsommation + "Date de fabrication :"+ dateFabrication + " Poids : "+ poids;
     };
 
+
 }
