@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex2p2/Carre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex2p2/Cercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex2p2/FormeGeometrique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex2p2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/Produit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/Produit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitAlimentaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitAlimentaire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitElectromenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitElectromenager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682516118688</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="equal polymorphisme">
+      <created>1682585943360</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682585943360</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +132,7 @@
     <MESSAGE value="ajout enum" />
     <MESSAGE value="ajout enum version opti" />
     <MESSAGE value="enum tableaux class" />
-    <option name="LAST_COMMIT_MESSAGE" value="enum tableaux class" />
+    <MESSAGE value="equal polymorphisme" />
+    <option name="LAST_COMMIT_MESSAGE" value="equal polymorphisme" />
   </component>
 </project>
