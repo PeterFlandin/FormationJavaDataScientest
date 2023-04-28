@@ -11,7 +11,6 @@ public class Calcul {
         int x;
         int y;
 
-        boolean recommencer;
 
         System.out.println("Entrez l’indice de l’entier à diviser: ");
         Scanner Essai = new Scanner(System.in);
@@ -22,11 +21,12 @@ public class Calcul {
         }
         System.out.println("Entrez le diviseur: ");
         y = Essai.nextInt();
-        if (y > 0) {
+
+        if (y < 0) {
             throw new Lexception("Erreur le diviseur n'est pas bon");
         }
 
-        
+
         System.out.println("Le résultat de la division est: ");
         System.out.println(division(x, y));
     }

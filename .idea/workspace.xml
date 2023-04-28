@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2p3/Calcul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2p3/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2p3/Lexception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2p3/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex2p3/Calcul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex2p3/Calcul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex2p3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex2p3/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682672740499</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="try &amp; catch 2">
+      <created>1682675476107</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682675476107</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +213,7 @@
     <MESSAGE value="interface" />
     <MESSAGE value="programmation generique" />
     <MESSAGE value="try &amp; catch 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="try &amp; catch 1" />
+    <MESSAGE value="try &amp; catch 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="try &amp; catch 2" />
   </component>
 </project>
