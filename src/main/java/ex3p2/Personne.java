@@ -8,6 +8,7 @@ public class Personne implements Mesurable{
         this.taille = taille;
     }
 
+
     public int getTaille() {
         return taille;
     }

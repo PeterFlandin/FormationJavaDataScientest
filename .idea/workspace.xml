@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/important/FileInfoExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/important/serializable/DeSerializerPersonne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/important/serializable/Homme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/important/serializable/SerializerPersonne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex2p2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex2p2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitElectromenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex1p2/ProduitElectromenager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex3p2/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex3p2/Personne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682687918899</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ajout FileInfoExample">
+      <created>1682693650245</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1682693650245</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -298,6 +308,7 @@
     <MESSAGE value="ajout important stream" />
     <MESSAGE value="ajout important vector" />
     <MESSAGE value="ajout vector ex2p2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout vector ex2p2" />
+    <MESSAGE value="ajout FileInfoExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout FileInfoExample" />
   </component>
 </project>
