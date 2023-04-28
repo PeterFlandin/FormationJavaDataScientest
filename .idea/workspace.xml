@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/important/Infos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/important/LambdaExpressionExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex2p3/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex2p3/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex2p3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex2p3/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682682389772</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ajout important">
+      <created>1682683361586</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682683361586</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,6 +238,7 @@
     <MESSAGE value="try &amp; catch 2" />
     <MESSAGE value="try &amp; catch 3 avec un recommence boolean" />
     <MESSAGE value="try &amp; catch 4 avec un recommence boolean version opti" />
-    <option name="LAST_COMMIT_MESSAGE" value="try &amp; catch 4 avec un recommence boolean version opti" />
+    <MESSAGE value="ajout important" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout important" />
   </component>
 </project>

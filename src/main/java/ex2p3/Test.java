@@ -24,14 +24,14 @@ public class Test {
             System.out.println("Le résultat de la division est: ");
             System.out.println(division(x, y));
         } catch (ArithmeticException e) {
-            System.out.println(e.getMessage());
+            System.out.println(e);
             System.out.println("Voulez vous recommencer ? yes/no");
             boolean recommencer = sc.nextLine().equals("yes");
             if (recommencer) {
                 main(args);
             }
         } catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println(e.getMessage());
+            System.out.println(e);
             System.out.println("Voulez vous recommencer ? yes/no");
             boolean recommencer = sc.nextLine().equals("yes");
             if (recommencer) {

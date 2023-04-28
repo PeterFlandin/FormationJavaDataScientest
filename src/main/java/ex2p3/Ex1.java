@@ -2,7 +2,7 @@ package ex2p3;
 
 import java.util.Scanner;
 
-public class Ex1 {
+public class Ex1  {
 
     static int[] tableau = {17, 12, 15, 38, 29, 157, 89, -22, 0, 5};
 
