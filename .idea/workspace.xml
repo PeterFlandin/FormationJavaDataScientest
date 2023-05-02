@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb3ba43-c834-4d12-a5bf-1b9671bfc849" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestWindows/Windows.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestWindows/Windows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/important/serializable/DeSerializerPersonne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/important/serializable/DeSerializerPersonne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/important/serializable/Homme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/important/serializable/Homme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/important/serializable/SerializerPersonne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/important/serializable/SerializerPersonne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,20 +56,30 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Administrateur/Desktop/discord-bot-java_thierrybeccaro",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "515",
+    "last_opened_file_path": "C:/Users/Administrateur/Desktop/DocSpring/spring/FormationJavaDataScientest/src/main/java/TestWindows/img",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DeSerializerPersonne">
-    <configuration name="DeSerializerPersonne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="important.serializable.DeSerializerPersonne" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrateur\Desktop\DocSpring\spring\FormationJavaDataScientest\src\main\java\TestWindows\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrateur\Desktop\DocSpring\spring\FormationJavaDataScientest\src\main\java\TestWindows\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Windows">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestWindows.Test" />
       <module name="FormationJavaDataScientest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="important.serializable.*" />
+          <option name="PATTERN" value="TestWindows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileOutputStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="important.fileoutpout.FileOutputStreamEx" />
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestWindows.Testing" />
       <module name="FormationJavaDataScientest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="important.fileoutpout.*" />
+          <option name="PATTERN" value="TestWindows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializerPersonne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="important.serializable.SerializerPersonne" />
+    <configuration name="Windows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestWindows.Windows" />
       <module name="FormationJavaDataScientest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="important.serializable.*" />
+          <option name="PATTERN" value="TestWindows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOutputstream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="important.fileoutpout.buffer.TestOutputstream" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestWindows.test" />
       <module name="FormationJavaDataScientest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="important.fileoutpout.buffer.*" />
+          <option name="PATTERN" value="TestWindows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercice.ex06" />
+    <configuration name="testin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestWindows.testin" />
       <module name="FormationJavaDataScientest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercice.*" />
+          <option name="PATTERN" value="TestWindows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeSerializerPersonne" />
-        <item itemvalue="Application.SerializerPersonne" />
-        <item itemvalue="Application.TestOutputstream" />
-        <item itemvalue="Application.FileOutputStreamEx" />
-        <item itemvalue="Application.ex06" />
+        <item itemvalue="Application.Windows" />
+        <item itemvalue="Application.Testing" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.testin" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -324,11 +333,17 @@
       <option name="project" value="LOCAL" />
       <updated>1683012997681</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="modification de serializable">
+      <created>1683015231809</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1683015231809</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex add" />
     <MESSAGE value="ajout methode comparaison" />
     <MESSAGE value="ajout methode comparaison modif" />
     <MESSAGE value="ajout package" />
@@ -353,7 +368,8 @@
     <MESSAGE value="ajout serializable" />
     <MESSAGE value="ajout FileOutputStreamEx" />
     <MESSAGE value="ajout bufferoutput" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout bufferoutput" />
+    <MESSAGE value="modification de serializable" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification de serializable" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
