@@ -7,9 +7,8 @@ import java.io.IOException;
 import java.io.ObjectOutputStream;
 
 public class SerializerPersonne {
-    public static void main(final String argv[]) {
+    public static void main(String[] arg) {
         Homme personne = new Homme("Jean","John", 177);
-        System.out.println(personne);
         System.out.println(personne);
 
         ObjectOutputStream oos = null;

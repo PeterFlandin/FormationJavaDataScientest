@@ -1,6 +1,8 @@
 package important.serializable;
 
-public class Homme {
+import java.io.Serializable;
+
+public class Homme implements Serializable {
 
     private String nom;
     private String prenom;

@@ -11,15 +11,13 @@ public class DeSerializerPersonne {
         try {
             final FileInputStream fichier = new FileInputStream("personne.ser");
             ois = new ObjectInputStream(fichier);
-             Homme personne = (Homme) ois.readObject();
+           final  Homme personne = (Homme) ois.readObject();
             System.out.println(personne);
             System.out.println("Personne : ");
             System.out.println("nom : " + personne.getNom());
             System.out.println("prenom : " + personne.getPrenom());
             System.out.println("taille : " + personne.getTaille());
-        } catch (final java.io.IOException e) {
-            e.printStackTrace();
-        } catch (final ClassNotFoundException e) {
+        } catch (final IOException | ClassNotFoundException e) {
             e.printStackTrace();
         } finally {
             try {
