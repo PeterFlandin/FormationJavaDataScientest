@@ -24,6 +24,6 @@ public class ProduitElectromenager extends Produit{
     public String toString() {
         return super.toString() + "Classe energetique :" + classeEnergetique + typeEnergetique.toString();
     }
-    
+
 
 }

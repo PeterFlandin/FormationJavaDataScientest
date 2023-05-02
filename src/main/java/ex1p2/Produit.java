@@ -8,13 +8,11 @@ public abstract class Produit {
     private double prixHT;
 
     public Produit(int code, String libelle, double prixHT) {
-  this.code = code;
-  this.libelle = libelle;
-  this.prixHT = prixHT;
+    this.code = code;
+    this.libelle = libelle;
+    this.prixHT = prixHT;
     }
 
-    public Produit() {
-    }
 
     public int getCode() {
         return code;
@@ -31,7 +29,6 @@ public abstract class Produit {
     public void setLibelle(String libelle) {
         this.libelle = libelle;
     }
-
 
     public double getPrixHT() {
         return prixHT;

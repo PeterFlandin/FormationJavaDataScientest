@@ -10,7 +10,6 @@ public class Test {
 
         Scanner sc = new Scanner(System.in);
 
-
         int x;
         int y;
 

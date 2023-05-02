@@ -33,9 +33,6 @@ public class Start {
         System.out.println(p1.equals(p2));
 
 
-
-
-
         }
     }
 

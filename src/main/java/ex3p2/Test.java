@@ -15,6 +15,5 @@ public class Test {
     public static void affiche(Mesurable mesurable) {
         System.out.println(mesurable.getMesure());
     }
-
     }
 

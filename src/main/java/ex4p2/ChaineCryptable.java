@@ -18,6 +18,5 @@ public class ChaineCryptable extends Chaine implements Cryptable{
 
     @Override
     public void décrypter() {
-
     }
 }

@@ -4,6 +4,4 @@ public interface Cryptable {
     public void crypter();
     public void décrypter();
 
-
-
 }

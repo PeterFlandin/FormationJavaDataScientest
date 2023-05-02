@@ -18,7 +18,6 @@ public class ProduitAlimentaire  extends  Produit{
         this.dateLimiteConsommation = dateLimiteConsommation;
     }
 
-
     public LocalDate getDateFabrication() {
         return dateFabrication;
     }
